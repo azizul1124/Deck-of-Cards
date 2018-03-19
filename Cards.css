@@ -1,0 +1,25 @@
+/*
+Azizul Hakim
+CGS 3175
+Karin Whiting
+MW 1:30-2:45
+Assignment 3
+*/
+
+.card{
+	
+	border: solid 3px #aaa;
+	border-radius: 10px;
+	width: 95px;
+	height: 150px;
+	float: left;
+	background-color: white;
+	padding: 5px 5px 5px 5px;
+	
+}
+
+.card .value{
+	
+	font-size: 24pt;
+	font-family: sans-serif;
+}
